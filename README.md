@@ -4,8 +4,6 @@
 
 ---
 
-![HFSM2 uplugin](assets/logos/hfsm2-logo-large.png)
-
 # HFSM2 Unreal Engine Plugin
 
 Unreal Engine plugin for [HFSM2](https://hfsm.dev) library.
