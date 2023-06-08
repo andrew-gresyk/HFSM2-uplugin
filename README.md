@@ -14,7 +14,7 @@ Unreal Engine plugin for [HFSM2](https://hfsm.dev) library.
 
 - Unreal Engine: **5.2**
 
-(Verified versiona in **bold**)
+(Verified versions in **bold**)
 
 ---
 
