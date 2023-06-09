@@ -8,7 +8,7 @@
 	"CreatedBy": "Andrew Gresyk",
 	"CreatedByURL": "https://www.twitter.com/andrew_gresyk",
 	"DocsURL": "https://hfsm.dev",
-	"MarketplaceURL": "https://github.com/andrew-gresyk/HFSM2-uplugin",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b75413047bfc482fbfa5388a8616e574",
 	"SupportURL": "https://discord.gg/v4t3tzh",
 	"EngineVersion": "5.2.0",
 	"CanContainContent": false,
@@ -17,6 +17,7 @@
 		{
 			"Name": "HFSM2",
 			"Type": "Runtime",
+			"WhitelistPlatforms": [ "Win64", "Win32", "Mac", "Linux" ],
 			"LoadingPhase": "Default"
 		}
 	]
