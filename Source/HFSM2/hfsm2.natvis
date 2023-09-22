@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!-- Created by Andrew Gresyk, see https://hfsm.dev. -->
+<!-- https://docs.microsoft.com/en-us/visualstudio/debugger/format-specifiers-in-cpp -->
 
 <AutoVisualizer xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">
 
